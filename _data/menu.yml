@@ -15,16 +15,16 @@ entries:
   
       - title: Areas of specialization
         entries:
-          - title: IT Strategy Advisory
+          - title: Enterprise Tech Strategy Advisory
           - title: IT Project Management
           - title: IT Business Analysis
+          - title: Software Service Productization
+          - title: Software Outsourcing Relationship Management
+          - title: Software Engineering Team Formation & Development
+          - title: Web Solutions Architecture & Development
           - title: Web Platform Modernization
-          - title: Web Solution Architecture
           - title: Web Performance Optimization
           - title: Digital Marketing Automation
-          - title: Enterprise Digital Transformation
-          - title: Engineering Team Formation & Development
-          - title: Software Outsourcing Management
 
   - title: Contact
     entries: 
