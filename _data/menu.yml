@@ -1,0 +1,45 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: About
+    entries:
+      - title: An indepedent IT Consulting and Advisory professional
+      - title: A seasoned software engineer and engineering lead
+      - title: A GTD (Getting Things Done) practitioner
+      - title: A Continous Improvement believer
+      - title: A lifelong learner
+      # - title: github repo
+      #   url: 
+      # - title: "<a href='https://yaer.io'>yaer.io</a>"
+
+  # - title: all posts
+  #   post_list:
+  #     limit: 5
+  #     show_more: true
+  #     show_more_text: See archive...
+  #     show_more_url: archive.html
+
+  # - title: posts by category
+  #   post_list:
+  #     category: example2
+  #     show_more: true
+  #     show_more_text: See more posts...
+  #     show_more_url: example2-archive.html
+  
+  - title: Services
+    entries:
+      - title: IT Strategy Advisory
+      - title: IT Project Management
+      - title: IT Business Analysis
+      - title: Web Platform Modernization
+      - title: Web Application Architecture
+      - title: Web Performance Optimization
+      - title: Digital Marketing Automation
+      - title: Engineering Team Formation & Development
+
+  - title: Contact
+    entries: 
+      - title: Email
+        url: mailto:contact@yaer.io
+ 
