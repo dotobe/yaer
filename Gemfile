@@ -2,7 +2,9 @@
 
 source "https://rubygems.org"
 
+gem "jekyll", "~> 3.9.0"
+gem "jekyll-feed", "~> 0.15.1"
+gem "jekyll-seo-tag", "~> 2.7.1"
 gem "kramdown-parser-gfm"
 gem "no-style-please"
-gemspec
 gem "webrick", "~> 1.7"
